@@ -1262,7 +1262,7 @@ CMBloodMeridian
 - [Vinay Dahiya](https://github.com/pyvkd)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
-- [Johira Afzali](https://github.com/joafz)
+- [Jordan Afzali](https://github.com/joafz)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [Daniel Millier](https://github.com/UnknownFearNG)
 - IndominusRexx
